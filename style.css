@@ -1,0 +1,28 @@
+ul{
+    list-style-type: none ;
+    background-color: #ee82ee ;
+    font-size: 20px ;
+    border: solid black ;
+}
+
+li{
+    background-color: pink;
+    border: 2px solid blue ;
+    font-size: 20px;
+}
+
+.blue{
+    background-color: bisque ;
+    border: 2px dotted plum ;
+    padding: 10px;
+}
+
+td{
+    background-color: #ee82ee;
+    border: 2px double blue ;
+}
+
+table{
+    border: 2px solid blue ;
+    margin-left: 500px;
+}
